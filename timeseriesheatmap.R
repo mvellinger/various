@@ -1,5 +1,5 @@
 ###############################################################################
-# Calender plot                                                               #
+# Calendar plot                                                               #
 # This script will create a timeseries heatmap, plotted on a calendar         #
 #                                                                             #
 # Expected values:                                                            #
